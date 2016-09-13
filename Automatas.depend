@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1413610130 source:/home/jnsamines/Desktop/Automatas/Automata.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<string>
+
+1413611002 source:/home/jnsamines/Desktop/Automatas/ConsoleMenu.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+
+1414122029 source:/home/jnsamines/Desktop/Automatas/Application.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdexcept>
+	"ConsoleMenu.h"
+	"Automata.h"
+	"Alumno.h"
+
+1413615004 /home/jnsamines/Desktop/Automatas/ConsoleMenu.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+
+1413614965 /home/jnsamines/Desktop/Automatas/Automata.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<string>
+	<sstream>
+	<iomanip>
+
+1414036215 /home/jnsamines/Desktop/Automatas/ConsoleMenu.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<cstdlib>
+	<stdlib.h>
+	"OpcionMenu.h"
+
+1414122073 /home/jnsamines/Desktop/Automatas/Automata.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<stdexcept>
+	<string.h>
+	<string>
+	<sstream>
+	"ArrayUtils.h"
+	"Transicion.h"
+
+1414035363 /home/jnsamines/Desktop/Automatas/ArrayUtils.h
+	<vector>
+	<string.h>
+	<string>
+	<sstream>
+
+1413954605 /home/jnsamines/Desktop/Automatas/OpcionMenu.h
+	<string>
+
+1413953486 /home/jnsamines/Desktop/Automatas/Transicion.h
+
+1414030159 /home/jnsamines/Desktop/Automatas/Alumno.h
+	<string>
+
